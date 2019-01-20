@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class SettingsComponent implements OnInit {
   public card = [
     {
-      title: 'myWeb',
-      desc: 'Portfolio',
-      url: 'https://www.kurtmillercreate.com'
+      title: 'Youtube',
+      desc: 'My Channel',
+      url: 'https://www.youtube.com/channel/UCFMNKxcPyg5odR1BB820ptw?view_as=subscriber'
     },
     {
       title: 'Git',

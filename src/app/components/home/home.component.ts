@@ -12,12 +12,11 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
 
-  toggleSettings() {
+  /*toggleSettings() {
     if (this.settings === true) {
       this.settings = false;
   } else {
     this.settings = true;
-  }
+  }*/
 }
 
-}
