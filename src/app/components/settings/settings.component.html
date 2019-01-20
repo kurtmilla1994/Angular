@@ -1,0 +1,15 @@
+<div class="container">
+  <div class="row">
+    <div class="col pt-3" *ngFor="let cards of card">
+        <div class="card" style="width: 18rem;">
+          <img src="assets/Phillyskyline.png" class="card-img-top" alt="...">
+          <hr class="my-4">
+        <div class="card-body">
+            <h5 class="card-title">{{cards.title}}</h5>
+            <p class="card-text">{{cards.desc}}</p>
+            <a href="{{cards.url}}" target="_blank" class="btn btn-primary">Learn More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
