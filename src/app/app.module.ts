@@ -12,7 +12,7 @@ import { PortfolioComponent } from './components/portfolio/portfolio.component';
     AppComponent,
     HomeComponent,
     SettingsComponent,
-    PortfolioComponent
+    PortfolioComponent,
   ],
   imports: [
     BrowserModule,
