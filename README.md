@@ -1,5 +1,3 @@
-The original app was compiled on Angular 2.. I am using Angular 7 and cannot perform some of these tasks
-
 # NewApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
